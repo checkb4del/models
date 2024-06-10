@@ -1,0 +1,11 @@
+Model Information:
+* title:	Priest of the Black Pulpit
+* source:	https://sketchfab.com/3d-models/priest-of-the-black-pulpit-6d768972936549da9f8dbada227a8e2f
+* author:	Mateusz Woliński (https://sketchfab.com/jeandiz)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Priest of the Black Pulpit" (https://sketchfab.com/3d-models/priest-of-the-black-pulpit-6d768972936549da9f8dbada227a8e2f) by Mateusz Woliński (https://sketchfab.com/jeandiz) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
